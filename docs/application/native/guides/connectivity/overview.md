@@ -58,6 +58,10 @@ You can use the following connectivity and wireless features in your native appl
 
   You can perform network service discoveries to announce local services and search for remote services.
 
+- [Zigbee](zigbee.md)
+
+  You can create, destroy and manage Zigbee network which is a low-cost and low-power wireless mesh network standard targeted for battery-powered devices in wireless control and monitoring applications.
+
 ## Related Information
 - Dependencies
   - Tizen 2.4 and Higher for Mobile
